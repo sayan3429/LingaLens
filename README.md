@@ -1,4 +1,4 @@
-For Running this locally:
+## For Running this locally:
 1. First Install dependencies by this code:
  `pip install -r requirements.txt`
 2. Then for OCR install tesseract if not installed from `https://github.com/UB-Mannheim/tesseract/wiki`
